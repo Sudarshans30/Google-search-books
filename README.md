@@ -4,8 +4,9 @@
 
 * [ Description](#Description)
 * [Screenshot](#Screenshot)
+* [Website](#Website)
 * [Usage](#Usage)
-* [Built with](#Built with)
+
 * [License](#License)
 
 
@@ -23,11 +24,12 @@ Google Books search is a react app that allows you to search for books using Goo
 
 <img width="1440" alt="Screenshot 2023-05-08 at 3 24 36 pm" src="https://user-images.githubusercontent.com/117637113/236742463-62639638-96b4-4812-afd7-bd82f587aa69.png">
 
+## Website
+https://go-books.herokuapp.com/
+
+
 ## Usage
-
-
-## Built with
-
+To use, follow the provided link, sign up to create an account, and search. When you find a book you want to keep, click to save the book to your book list. If you want to remove a book, find the book in your saved books and click to remove.
 
 ## License
 MIT License
