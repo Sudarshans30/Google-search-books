@@ -18,8 +18,7 @@ type Book {
     link: String
 
 } 
-
-imput SaveBookInput {
+input SaveBookInput {
     bookId: ID!
     authors: [String] 
     description : String
